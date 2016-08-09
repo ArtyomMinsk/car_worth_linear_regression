@@ -17,7 +17,8 @@ The motivation of this project is to:
 
 ## Important links
 
-HTML documentation: http://scikit-learn.org
+- HTML documentation: http://scikit-learn.org
+- Jupyter Notebook: https://github.com/ArtyomMinsk/car_worth_linear_regression/blob/master/car-worth.ipynb
 
 ## Special Instructions
 
